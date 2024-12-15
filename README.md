@@ -2,7 +2,7 @@
 
 Generate concise and insightful summaries of YouTube videos using AI agents! This project automates the process of analyzing video content and producing comprehensive summaries.
 
-![Main Overview](Img\img1.png) <!-- Replace with the path to your first image -->
+![Main Overview](https://github.com/VidushiSaini78/Youtube-Video-Summarizer/blob/main/Img/img1.png) <!-- Replace with the path to your first image -->
 
 ---
 
@@ -12,11 +12,6 @@ The Blog Researcher agent gathers important insights and relevant data about the
 ### 🤖 Blog Writer  
 The Blog Writer agent is responsible for creating detailed and engaging summaries of the YouTube video. It focuses on structuring the content in a clear and reader-friendly format, ensuring the key points are effectively communicated.
 
-
-
-![Output](Img\img2.png) <!-- Replace with the path to your second image -->
-
----
 
 ## **Tool Utilized**
 
